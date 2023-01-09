@@ -1,9 +1,18 @@
 𝟎𝟖-𝟎𝟏-𝟐𝟎𝟐𝟑
 1. https://t.co/ZRHUU7O2Lk
-2. [https://thegrayarea.tech/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7](https://t.co/JQnfhoDsdk) (automated subdomain takeover)
-4. [hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1](https://t.co/4uAG9VoRJI) ( XSS on Apple )
+2. [https://thegrayarea.tech/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7] (automated subdomain takeover)
+4. [hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1]( XSS on Apple )
 5. RealTryHackMe room on 'MITRE'
 6. Completing some classes from a course Cloud security
 7. Did some bug hunting of a VDP found 2 duplicates
 
 𝟎𝟗-𝟎𝟏-𝟐𝟎𝟐𝟑
+Day 2 of #100DaysOfHacking 
+
+1. https://hacklido.com/blog/213-how-i-found-30-websites-source-code-disclosure-via-exposed-git-folder-using-google-dorks
+2. https://hacklido.com/blog/198-how-i-found-130-sub-domain-takeover-vulnerabilities-using-nuclei
+3. https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972
+4. https://hackerone.com/reports/1687415 IDOR when editing email leads to Mass Full ATOs (Account Takeovers) without user interaction on https://██████/
+5. Studied cloud security topic - from my university course 
+6. Solved Network service 2 Room from @RealTryHackMe (some basic miss-configurations )
+7. Revising some 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 topics from @Ox4d5a's UEH course (highly recommended)
