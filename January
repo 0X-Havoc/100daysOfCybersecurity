@@ -39,9 +39,9 @@ You can also learn more about Cyber threats actors and their techniques using [ð
 1. Completed 'Injections, XXE and Insecure Deserialization' part from @appsecsecurity course
 2. Brush up on some basic missconfigs : NFS & SMTP exploitation
 3. Read some cloud security content from university course
-4. 
-
-
+4. https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6
+5. 50+ Cross-site scripting (XSS) Vulnerabilities on Bugcrowd Public Program by Takshal --  https://hacklido.com/blog/154-50-cross-site-scripting-xss-vulnerabilities-on-bugcrowd-public-program  
+6. Practiced some Python scripting :)
 
 
 
