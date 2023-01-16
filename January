@@ -79,6 +79,13 @@ You can also learn more about Cyber threats actors and their techniques using [ð
 4. Learned Cross-Site-Scripting: Attack and Defense from @AppSecEngineer
 
 
+16-01-2023
+1. ðŸ‘‡A tale of a real web app hacking from 0 to RCE  https://twitter.com/thehackerish/status/1614333449740992520?s=20&t=1BMcgJkwPOIECiKEVzW9ag
+2. Did some Bug Bounty on a private program report a Time-based SQL injection (not-dup)
+3. Did some basic AD section from @RealTryHackMe creating foundation for CRTP exam :)
+4. PurpleUrchin Bypasses CAPTCHA and Steals Cloud Platform Resources https://unit42.paloaltonetworks.com/purpleurchin-steals-cloud-resources/#post-126345-_a3qh58r98c9n
+5. SSH key injection in Google Cloud Compute Engine [Google VRP] https://blog.stazot.com/ssh-key-injection-google-cloud/ 
+6. Bypassing authorization in Google Cloud Workstations [Google VRP] https://blog.stazot.com/auth-bypass-in
 
 
 
